@@ -1,0 +1,12 @@
+# Colab already provides TensorFlow, numpy, matplotlib, scikit-learn, pillow.
+# For a local run, install everything:
+tensorflow>=2.16
+keras-facenet
+mtcnn>=1.0
+split-folders
+kaggle
+tqdm
+numpy
+pillow
+matplotlib
+scikit-learn

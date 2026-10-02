@@ -1,0 +1,9 @@
+kaggle.json
+.kaggle/
+*.zip
+*.npz
+pins_dataset/
+105_classes_pins_dataset/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
